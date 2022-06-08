@@ -10,6 +10,7 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,5 +36,5 @@
   "devDependencies": {
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://virtual-hendi.isaac-j-miller.com"
+  "homepage": "https://brennaser.github.io/Virtual-HeNDI-Spectrometer"
 }

@@ -28,7 +28,7 @@ function VirtualHendiInterface() {
 
   const baseUrl = window.location.href.includes("localhost:3000")
     ? "http://localhost:3000"
-    : "https://api.virtual-hendi.isaac-j-miller.com";
+    : "https://brennaser.github.io/Virtual-HeNDI-Spectrometer";
 
   useEffect(() => {
     _isMounted = true;

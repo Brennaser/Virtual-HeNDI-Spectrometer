@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Virtual-HeNDI-Spectrometer/static/css/main.9c770801.chunk.css",
-    "main.js": "/Virtual-HeNDI-Spectrometer/static/js/main.9e391063.chunk.js",
-    "main.js.map": "/Virtual-HeNDI-Spectrometer/static/js/main.9e391063.chunk.js.map",
+    "main.js": "/Virtual-HeNDI-Spectrometer/static/js/main.8285b6d6.chunk.js",
+    "main.js.map": "/Virtual-HeNDI-Spectrometer/static/js/main.8285b6d6.chunk.js.map",
     "runtime-main.js": "/Virtual-HeNDI-Spectrometer/static/js/runtime-main.856d5378.js",
     "runtime-main.js.map": "/Virtual-HeNDI-Spectrometer/static/js/runtime-main.856d5378.js.map",
     "static/js/2.e4e6aa50.chunk.js": "/Virtual-HeNDI-Spectrometer/static/js/2.e4e6aa50.chunk.js",
     "static/js/2.e4e6aa50.chunk.js.map": "/Virtual-HeNDI-Spectrometer/static/js/2.e4e6aa50.chunk.js.map",
     "index.html": "/Virtual-HeNDI-Spectrometer/index.html",
-    "precache-manifest.112424ee373ba09cc65768983baace4d.js": "/Virtual-HeNDI-Spectrometer/precache-manifest.112424ee373ba09cc65768983baace4d.js",
+    "precache-manifest.3e100faad9f856d3c2de595d0d487bc5.js": "/Virtual-HeNDI-Spectrometer/precache-manifest.3e100faad9f856d3c2de595d0d487bc5.js",
     "service-worker.js": "/Virtual-HeNDI-Spectrometer/service-worker.js",
     "static/css/main.9c770801.chunk.css.map": "/Virtual-HeNDI-Spectrometer/static/css/main.9c770801.chunk.css.map",
     "static/js/2.e4e6aa50.chunk.js.LICENSE.txt": "/Virtual-HeNDI-Spectrometer/static/js/2.e4e6aa50.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.856d5378.js",
     "static/js/2.e4e6aa50.chunk.js",
     "static/css/main.9c770801.chunk.css",
-    "static/js/main.9e391063.chunk.js"
+    "static/js/main.8285b6d6.chunk.js"
   ]
 }

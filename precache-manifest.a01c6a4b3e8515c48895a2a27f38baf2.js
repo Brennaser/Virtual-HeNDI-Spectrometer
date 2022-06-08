@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5b59008034e5106239aaa8145c07700",
+    "revision": "9fe83b829dc21e38564e96762b3d8580",
     "url": "/Virtual-HeNdi-Spectrometer/index.html"
   },
   {
-    "revision": "7a3757642a32b89d8221",
+    "revision": "c8e0da9568dea1028828",
     "url": "/Virtual-HeNdi-Spectrometer/static/css/main.9c770801.chunk.css"
   },
   {
-    "revision": "028441e1486311a2f86c",
-    "url": "/Virtual-HeNdi-Spectrometer/static/js/2.e4e6aa50.chunk.js"
+    "revision": "802d272d780f75f57390",
+    "url": "/Virtual-HeNdi-Spectrometer/static/js/2.5cefc407.chunk.js"
   },
   {
     "revision": "1eb98128fca24a10c1974225cfebc276",
-    "url": "/Virtual-HeNdi-Spectrometer/static/js/2.e4e6aa50.chunk.js.LICENSE.txt"
+    "url": "/Virtual-HeNdi-Spectrometer/static/js/2.5cefc407.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a3757642a32b89d8221",
-    "url": "/Virtual-HeNdi-Spectrometer/static/js/main.a404e7bf.chunk.js"
+    "revision": "c8e0da9568dea1028828",
+    "url": "/Virtual-HeNdi-Spectrometer/static/js/main.ef7825a1.chunk.js"
   },
   {
     "revision": "5931e5711cd70a4cd526",

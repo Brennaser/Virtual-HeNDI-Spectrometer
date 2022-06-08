@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Virtual-HeNdi-Spectrometer/static/css/main.9c770801.chunk.css",
-    "main.js": "/Virtual-HeNdi-Spectrometer/static/js/main.a404e7bf.chunk.js",
-    "main.js.map": "/Virtual-HeNdi-Spectrometer/static/js/main.a404e7bf.chunk.js.map",
+    "main.js": "/Virtual-HeNdi-Spectrometer/static/js/main.ef7825a1.chunk.js",
+    "main.js.map": "/Virtual-HeNdi-Spectrometer/static/js/main.ef7825a1.chunk.js.map",
     "runtime-main.js": "/Virtual-HeNdi-Spectrometer/static/js/runtime-main.7664bc8a.js",
     "runtime-main.js.map": "/Virtual-HeNdi-Spectrometer/static/js/runtime-main.7664bc8a.js.map",
-    "static/js/2.e4e6aa50.chunk.js": "/Virtual-HeNdi-Spectrometer/static/js/2.e4e6aa50.chunk.js",
-    "static/js/2.e4e6aa50.chunk.js.map": "/Virtual-HeNdi-Spectrometer/static/js/2.e4e6aa50.chunk.js.map",
+    "static/js/2.5cefc407.chunk.js": "/Virtual-HeNdi-Spectrometer/static/js/2.5cefc407.chunk.js",
+    "static/js/2.5cefc407.chunk.js.map": "/Virtual-HeNdi-Spectrometer/static/js/2.5cefc407.chunk.js.map",
     "index.html": "/Virtual-HeNdi-Spectrometer/index.html",
-    "precache-manifest.11caa78f0e1e560f21917a4d30c50cbf.js": "/Virtual-HeNdi-Spectrometer/precache-manifest.11caa78f0e1e560f21917a4d30c50cbf.js",
+    "precache-manifest.a01c6a4b3e8515c48895a2a27f38baf2.js": "/Virtual-HeNdi-Spectrometer/precache-manifest.a01c6a4b3e8515c48895a2a27f38baf2.js",
     "service-worker.js": "/Virtual-HeNdi-Spectrometer/service-worker.js",
     "static/css/main.9c770801.chunk.css.map": "/Virtual-HeNdi-Spectrometer/static/css/main.9c770801.chunk.css.map",
-    "static/js/2.e4e6aa50.chunk.js.LICENSE.txt": "/Virtual-HeNdi-Spectrometer/static/js/2.e4e6aa50.chunk.js.LICENSE.txt"
+    "static/js/2.5cefc407.chunk.js.LICENSE.txt": "/Virtual-HeNdi-Spectrometer/static/js/2.5cefc407.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7664bc8a.js",
-    "static/js/2.e4e6aa50.chunk.js",
+    "static/js/2.5cefc407.chunk.js",
     "static/css/main.9c770801.chunk.css",
-    "static/js/main.a404e7bf.chunk.js"
+    "static/js/main.ef7825a1.chunk.js"
   ]
 }

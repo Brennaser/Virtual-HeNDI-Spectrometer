@@ -8,8 +8,9 @@ if __name__ == "__main__":
     temperature = sys.argv[1]
     mn = sys.argv[2]
     mx = sys.argv[3]
-    rootDir = sys.argv[4]
-    tmpDir = os.path.join(rootDir, "spectra/tmp")
+    # rootDir = sys.argv[4]
+    # tmpDir = os.path.join(rootDir, "spectra/tmp")
+    tempDir = "../"
     pathlib.Path(tmpDir).mkdir(parents=True, exist_ok=True)
     ans = lambda_handler({
         "pathParameters": {

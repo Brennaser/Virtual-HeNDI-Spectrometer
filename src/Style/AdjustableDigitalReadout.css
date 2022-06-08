@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: "digital";
-  src: url("/virtual-hendi/fonts/digital-7 (mono).ttf");
+  src: url("/Virtual-HeNDI-Spectrometer/fonts/digital-7 (mono).ttf");
 }
 .button-container > button {
   flex-grow: 1;

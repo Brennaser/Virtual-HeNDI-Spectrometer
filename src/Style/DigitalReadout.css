@@ -1,6 +1,6 @@
 @font-face {
   font-family: "digital";
-  src: url("/virtual-hendi/fonts/digital-7 (mono).ttf");
+  src: url("/Virtual-HeNDI-Spectrometer/fonts/digital-7 (mono).ttf");
 }
 .digital-readout {
   font-family: "digital", monospace;

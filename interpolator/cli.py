@@ -10,7 +10,7 @@ if __name__ == "__main__":
     mx = sys.argv[3]
     # rootDir = sys.argv[4]
     # tmpDir = os.path.join(rootDir, "spectra/tmp")
-    tempDir = "../"
+    tempDir = "./"
     pathlib.Path(tmpDir).mkdir(parents=True, exist_ok=True)
     ans = lambda_handler({
         "pathParameters": {

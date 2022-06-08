@@ -9,6 +9,10 @@ import axios from "axios";
 import Instructions from "./Instructions";
 import { Error } from "./Error";
 
+// Imports to get these files on the github page
+// import cli from "./interpolator/cli.py";
+// import handle from "./interpolator/handler.py";
+
 function VirtualHendiInterface() {
   const hendiRef = React.createRef();
   const tempRef = React.createRef();

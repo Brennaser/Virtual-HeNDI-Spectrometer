@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Virtual-HeNDI-Spectrometer/precache-manifest.e12b18511f9df54b892b16fb54305d6b.js"
+  "/Virtual-HeNDI-Spectrometer/precache-manifest.112424ee373ba09cc65768983baace4d.js"
 );
 
 self.addEventListener('message', (event) => {

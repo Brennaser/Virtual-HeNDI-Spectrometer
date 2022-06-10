@@ -9,10 +9,6 @@ import axios from "axios";
 import Instructions from "./Instructions";
 import { Error } from "./Error";
 
-// Imports to get these files on the github page
-// import cli from "./interpolator/cli.py";
-// import handle from "./interpolator/handler.py";
-
 function VirtualHendiInterface() {
   const hendiRef = React.createRef();
   const tempRef = React.createRef();
@@ -32,7 +28,8 @@ function VirtualHendiInterface() {
 
   const baseUrl = window.location.href.includes("localhost:3000")
     ? "http://localhost:3000"
-    : "https://brennaser.github.io/Virtual-HeNDI-Spectrometer";
+    : "https://brennaser.github.io/Virtual-HeNDI-Spectrometer";         // 404 on GET request
+    // : "https://api.brennaser.github.io/Virtual-HeNDI-Spectrometer";    // 499 'Access-Control-Allow-Origin'
 
   useEffect(() => {
     _isMounted = true;
@@ -60,7 +57,7 @@ function VirtualHendiInterface() {
     console.log("requesting spectrum");
     setLoadingSpectrum(true);
     axios
-      .get(url)
+      .get(url)     // this line is the problem
       .then((resp1) => {
         // const urlToUse = `https://virtual-hendi.isaac-j-miller.com${resp1.data.url}`;
         const urlToUse = resp1.data.url;

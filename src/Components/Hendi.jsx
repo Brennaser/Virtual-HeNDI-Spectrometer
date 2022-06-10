@@ -129,7 +129,7 @@ function Hendi({ id, seeOutside }) {
         alt="foreground"
         className={`hendi-component ${seeOutside ? "" : "transparent"}`}
         id="hendi-fg"
-        src="/Virtual-HeNDI-Spectrometer/images/hendi-foreground.png"
+        src="/Virtual-HeNDI-Spectrometer/images/hendi-base.svg"
       />
       <img
         alt="coldhead"

@@ -13,6 +13,12 @@
   border-radius: 1em;
   margin: 1em;
 }
+
+img {
+  width: 128vh;
+  height: 80vh;
+}
+
 @media only screen and (max-width: 768px) {
   .hendi-box {
     width: 95vw;

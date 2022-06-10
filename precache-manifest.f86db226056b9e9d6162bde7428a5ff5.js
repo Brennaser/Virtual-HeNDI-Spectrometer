@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "445d475c414586341dd88dd0fd6ba1ca",
+    "revision": "a4447c9aabda635540b0fef4097207f4",
     "url": "/Virtual-HeNDI-Spectrometer/index.html"
   },
   {
-    "revision": "dd2d70a60a0d4bd42374",
-    "url": "/Virtual-HeNDI-Spectrometer/static/css/main.737a914a.chunk.css"
+    "revision": "11fee916534f835b9b21",
+    "url": "/Virtual-HeNDI-Spectrometer/static/css/main.4c9dec50.chunk.css"
   },
   {
     "revision": "028441e1486311a2f86c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Virtual-HeNDI-Spectrometer/static/js/2.e4e6aa50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd2d70a60a0d4bd42374",
+    "revision": "11fee916534f835b9b21",
     "url": "/Virtual-HeNDI-Spectrometer/static/js/main.25c3fdb2.chunk.js"
   },
   {

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Virtual-HeNDI-Spectrometer/static/css/main.90a95f88.css",
-    "main.js": "/Virtual-HeNDI-Spectrometer/static/js/main.1fc8d37e.js",
+    "main.js": "/Virtual-HeNDI-Spectrometer/static/js/main.c230713b.js",
     "static/media/digital-7 (mono).ttf": "/Virtual-HeNDI-Spectrometer/static/media/digital-7 (mono).ae951a188b593952b384.ttf",
     "static/media/hendi-rotary-pump.svg": "/Virtual-HeNDI-Spectrometer/static/media/hendi-rotary-pump.373098976016ef0cea644827e85a10a7.svg",
     "static/media/hendi-laser-symbol.svg": "/Virtual-HeNDI-Spectrometer/static/media/hendi-laser-symbol.5fac6572c807edc62f26aef45d9d6f0d.svg",
@@ -15,10 +15,10 @@
     "index.html": "/Virtual-HeNDI-Spectrometer/index.html",
     "static/media/hendi-turbo-pump.svg": "/Virtual-HeNDI-Spectrometer/static/media/hendi-turbo-pump.861cd829dc42349e3fa696bb627fa278.svg",
     "main.90a95f88.css.map": "/Virtual-HeNDI-Spectrometer/static/css/main.90a95f88.css.map",
-    "main.1fc8d37e.js.map": "/Virtual-HeNDI-Spectrometer/static/js/main.1fc8d37e.js.map"
+    "main.c230713b.js.map": "/Virtual-HeNDI-Spectrometer/static/js/main.c230713b.js.map"
   },
   "entrypoints": [
     "static/css/main.90a95f88.css",
-    "static/js/main.1fc8d37e.js"
+    "static/js/main.c230713b.js"
   ]
 }

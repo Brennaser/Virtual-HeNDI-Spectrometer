@@ -9,7 +9,7 @@ import salt from "../components/svgs/tooltips/salt.svg";
 import sourceChamber from "../components/svgs/tooltips/source-chamber.svg";
 import stark from "../components/svgs/tooltips/stark.svg";
 import turboPump from "../components/svgs/tooltips/turbo-pump.svg";
-import laser from "../../../public/images/hendi-laserbeam.png";
+import laser from "../components/svgs/tooltips/hendi-laserbeam.png";
 
 export const toolTips = {
   lecture: {
